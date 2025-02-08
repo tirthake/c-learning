@@ -11,6 +11,13 @@ int main()
     a=a-b;
     b=a+b;
     a=b-a;
+
+    /*also we can use as 
+    a=a^b;
+    b=a^b;
+    a=b^a;
+    */
+    
 printf(" \n final value of A after swaping is:%d\n",a);
 
 printf(" Final value of B after swaping is:%d\n",b);
