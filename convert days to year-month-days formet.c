@@ -14,8 +14,8 @@ int main()
 
     day=day;// remaining days as days
 
-    printf("%d years\n",years);
-    printf("%d months",month);
-    printf("\n%d days",day);
+    printf("%d year's\n",years);
+    printf("%d month's",month);
+    printf("\n%d day's",day);
     return 0;
 }
