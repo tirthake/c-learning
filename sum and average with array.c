@@ -16,7 +16,8 @@ int main()
     }
 
     printf("the sum is %d\n",sum);
-
+average=(float)sum/5;
+printf("average is:%.2f",average);
     return 0;
 }
 
